@@ -1,0 +1,5 @@
+[rhel6.5]
+name=RHEL_6.4_x86_64_Local
+baseurl="http://172.20.0.241:82/repo/"
+enabled=1
+gpgcheck=0
